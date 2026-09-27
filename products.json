@@ -1,0 +1,44 @@
+[
+  {
+    "id": "p001",
+    "photo": "https://picsum.photos/seed/brutal1/800/800",
+    "price": 249000,
+    "name": {
+      "uz": "QORA FUTBOLKA — RAW EDITION",
+      "ru": "ЧЁРНАЯ ФУТБОЛКА — RAW EDITION"
+    },
+    "desc": {
+      "uz": "░░░ QATTIQ MATO. ANIQ SHAKL. ORTIQCHASI YO'Q. ░░░\nOversize kesim, 100% paxta, mustahkam tikuv. Betonga o'xshab — asosiy, ammo mangu.",
+      "ru": "░░░ ПЛОТНАЯ ТКАНЬ. ЧЁТКАЯ ФОРМА. БЕЗ ЛИШНЕГО. ░░░\nOversize крой, 100% хлопок, усиленный шов. Как бетон — просто, но навсегда."
+    },
+    "site_url": "https://example.com/product/p001"
+  },
+  {
+    "id": "p002",
+    "photo": "https://picsum.photos/seed/brutal2/800/800",
+    "price": 189000,
+    "name": {
+      "uz": "BETON KEPKA — CONCRETE CAP",
+      "ru": "БЕТОННАЯ КЕПКА — CONCRETE CAP"
+    },
+    "desc": {
+      "uz": "▓▓▓ QUYOSHDAN HIMOYA. SHAHAR UCHUN QURILGAN. ▓▓▓\nQattiq qirrali dizayn, sozlanuvchi bog'ich, og'irligi yo'q.",
+      "ru": "▓▓▓ ЗАЩИТА ОТ СОЛНЦА. СОЗДАНО ДЛЯ ГОРОДА. ▓▓▓\nЖёсткие грани, регулируемый ремешок, минимальный вес."
+    },
+    "site_url": "https://example.com/product/p002"
+  },
+  {
+    "id": "p003",
+    "photo": "https://picsum.photos/seed/brutal3/800/800",
+    "price": 420000,
+    "name": {
+      "uz": "MONOLIT SUMKA — BLOCK BAG",
+      "ru": "МОНОЛИТ СУМКА — BLOCK BAG"
+    },
+    "desc": {
+      "uz": "■■■ TO'G'RI BURCHAKLAR. HECH QANDAY BEZAK. ■■■\nKanvas asosida, katta hajm, kundalik yuklarga bardosh beradi.",
+      "ru": "■■■ ПРЯМЫЕ УГЛЫ. НИКАКИХ УКРАШЕНИЙ. ■■■\nПлотный канвас, большой объём, выдерживает ежедневную нагрузку."
+    },
+    "site_url": "https://example.com/product/p003"
+  }
+]
